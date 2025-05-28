@@ -15,3 +15,15 @@ To build a Churn Prediction Engine using AWS services that:
 -   Uses Amazon SageMaker for robust model training and deployment.
 -   Includes a simple, interactive User Interface (UI) for real-time predictions.
 -   Connects to Amazon S3 for efficient data storage.
+-   
+## 📈 Model Performance (on Test Set)
+
+*(After running Cell 11 in your Jupyter notebook, paste your key evaluation metrics here. Example format:)*
+
+The XGBoost model achieved the following performance on the unseen test set:
+
+-   **Accuracy:** 0.7890
+-   **Precision:** 0.6394
+-   **Recall:** 0.4733
+-   **F1-Score:** 0.5440
+-   **ROC AUC Score:** 0.8361
