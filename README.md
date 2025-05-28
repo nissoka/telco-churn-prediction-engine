@@ -18,7 +18,7 @@ To build a Churn Prediction Engine using AWS services that:
 -   
 ## 📈 Model Performance (on Test Set)
 
-*(After running Cell 11 in your Jupyter notebook, paste your key evaluation metrics here. Example format:)*
+
 
 The XGBoost model achieved the following performance on the unseen test set:
 
